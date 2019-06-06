@@ -19,7 +19,7 @@ This project has three sections:
   2.Preprocessing of Data   
   3.Developing Machine Learning Models for classification of said videos.  
 
-The two sections are discussed further:  
+The sections are discussed further:  
 # 1.Scraping Youtube Videos  
 VideoID,Title and Description were extracted from various Youtube videos by sending queries
 through the Google Youtube API V3 . This was facilitated through an unique key that is generated when
