@@ -12,7 +12,7 @@ Around 1500 videos were scraped for the following six categories:
 6.Art and Music
 ________________________________________________________________________________
 
-This project has two sections:
+This project has three sections:
   1.Scraping Youtube Videos
   2.Preprocessing of Data 
   3.Developing Machine Learning Models for classification of said videos.
