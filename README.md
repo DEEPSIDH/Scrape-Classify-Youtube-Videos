@@ -10,6 +10,8 @@ Around 1500 videos were scraped for the following six categories:
 4.Manufacturing  
 5.History  
 6.Art and Music  
+  
+The data is available in the final_scraped.csv file.  
 ________________________________________________________________________________  
 
 This project has three sections:  
